@@ -1,0 +1,18 @@
+# Ignore the database file
+*.db
+*.sqlite
+
+# Ignore Python cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large data files (if needed)
+data/
+
+*.json  
+*.csv  
+*.db  
